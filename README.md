@@ -1,3 +1,11 @@
+# Nova Station
+
+MISSION STATEMENT (WIP):
+
+NovaStation aims to bring together a fun, inclusive, and relaxed community on an MRP (Medium Role-Play) SS14 Server. Our focus is on (1) providing several mechanics not avaliable on other mainstream servers, (2) long-term feature stability, (3) non-draconian moderation team. We encourage community contributions, and listen to the concerns presented by our community at large about gameplay changes, new features, and moderation. We are new, and growing, so if this sounds like something you would like to be a part of, find us here: [INSERT DISCORD LINK]
+
+
+
 # Einstein Engines
 
 <p align="center"><img src="https://raw.githubusercontent.com/Simple-Station/Einstein-Engines/master/Resources/Textures/Logo/splashlogo.png" width="512px" /></p>
